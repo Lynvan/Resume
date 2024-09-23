@@ -3,7 +3,7 @@
 <img src="me.jpg" alt="My picture" width="200"/> 
 
 ## Position and affiliation:
-PhD student - Department of Oceanography and Atmospheric Science, UCT\
+Postdoctoral researcher - Department of Oceanography and Atmospheric Science, UCT\
 Research interests:\
 -Mesoscale meteorology\
 -Drylines & thunderstorms\
